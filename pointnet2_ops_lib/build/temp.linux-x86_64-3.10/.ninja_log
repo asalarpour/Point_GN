@@ -1,0 +1,10 @@
+# ninja log v5
+0	17887	1744568226448725098	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/ball_query.o	1d8684ab17987b06
+0	17916	1744568226480724609	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/bindings.o	5f4d2d065001a7a2
+0	17927	1744568226493724410	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/group_points.o	1791367fb9b80b3a
+0	17960	1744568226525723921	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/sampling.o	b877fc426aea6fad
+1	17964	1744568226528723875	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/interpolate.o	b3cd74aa1e06c29f
+6	12065	1744568428838632681	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/ball_query_gpu.o	9024d7b9fee6f540
+6	12077	1744568428853632452	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/group_points_gpu.o	96a7bd36c8595d25
+6	12088	1744568428865632269	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/interpolate_gpu.o	cc196f480b2f2357
+7	12282	1744568429059629305	/home/mohammadi/Downloads/codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-3.10/pointnet2_ops/_ext-src/src/sampling_gpu.o	c9ca1ccdd417697e

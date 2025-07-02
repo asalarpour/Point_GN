@@ -1,0 +1,19 @@
+# ninja log v5
+0	7677	1744645526165619493	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	144ff23dfdd36af8
+0	7693	1744645526182620153	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	2469a927b711bd43
+1	7928	1744645526416629230	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	faa0a355fc8e7a62
+0	8352	1744645526840645678	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	5f4b843c1832dff7
+0	9481	1744645527982689978	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	8307037a418b7e4d
+1	9728	1744645528217699094	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	32bf7c4b5502df1d
+1	9768	1744645528272701228	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	e4097e2171ba8305
+1	9904	1744645528408706504	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	2faf9cef15fc0b79
+1	10531	1744645529035730826	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	3c392aeb4c119625
+3	8856	1751484128396255625	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	320cca82ab193707
+3	8860	1751484128399255669	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	9b2c085525b5b5bb
+3	9833	1751484129374269889	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	fffe5cbf0de6406b
+3	10160	1751484129694274567	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	925d1466088be9b8
+3	11926	1751484131478300741	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	b56e5db38309bed8
+3	12134	1751484131674303625	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	f4bd13ea4b8f0f8c
+3	12321	1751484131874306569	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	35d3a835abedfc2a
+3	12789	1751484132343313488	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	e552d97c833a8c23
+3	13761	1751484133314327843	/home/amir/Technical/codes/pointcloud_codes/point_gn_draft-point_gn_wacv_version/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	368708c8a868e6d3

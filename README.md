@@ -31,7 +31,7 @@ Point-GN/
 ├── train_free_main.py       # Main entry point
 ├── models/                  # GPE & Point-NN model code
 ├── data/                    # Dataset loaders
-├── pointnet2_ops/           # Compiled PointNet++ ops
+├── pointnet2_ops_lib/       # Compiled PointNet++ ops
 └── README.md
 ```
 
@@ -49,7 +49,7 @@ pip install torch torchvision
 pip install -r requirements.txt
 
 # Compile PointNet++ ops
-cd pointnet2_ops
+cd pointnet2_ops_lib
 pip install .
 cd ..
 ```

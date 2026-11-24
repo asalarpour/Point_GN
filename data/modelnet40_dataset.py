@@ -17,7 +17,8 @@ def download_modelnet40(dataset_dir):
     if not os.path.exists(dataset_dir):
         os.mkdir(dataset_dir)
     if not os.path.exists(os.path.join(dataset_dir, "modelnet40_ply_hdf5_2048")):
-        www = "https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip"
+        # www = "https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip"
+        www = "https://huggingface.co/datasets/Msun/modelnet40/resolve/main/modelnet40_ply_hdf5_2048.zip"
         zipfile = os.path.basename(www)
         os.system("wget %s  --no-check-certificate; unzip %s" % (www, zipfile))
         os.system("mv %s %s" % (zipfile[:-4], dataset_dir))
